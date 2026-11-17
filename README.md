@@ -24,3 +24,5 @@ Desenvolvemos um sistema web que automatiza o controle de materiais. A aplicaç�
 
 ## 👥 Equipe
 Projeto desenvolvido em equipe durante o 2º bimestre do curso técnico em TI.
+
+Desenolvido por: Matheus Caldeira, Gabriel Miranda, Gustavo alkimim e Ryan Rocha
